@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+data/
+*.sqlite3
+google_token.json
+client_secret*.json
+.pytest_cache/
